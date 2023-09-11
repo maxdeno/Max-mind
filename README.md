@@ -1,0 +1,2 @@
+# Max-mind
+Tech ideas
